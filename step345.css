@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+img {
+    width: 1200px;
+    height: 400px;
+    Padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body {
+    text-align: center;
+}
