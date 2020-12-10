@@ -1,0 +1,27 @@
+html {
+    font-family: "Lucida Handwriting";
+    Background-color: orange;
+    font-size: 80%;
+    text-align: center;
+}
+
+form input {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8D8E8F;
+    width: 20%;
+    border-top: 1px solid #090B0D;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid #090B0D;
+    margin: 12px 1em;
+    border-radius: 7px;
+    background: #13161B;
+    box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
+    font-family: "Brush Script MT",'Raleway', sans-serif;
+}
+
+form {
+   
+}
